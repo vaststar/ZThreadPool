@@ -1,2 +1,2 @@
-# ZThreadPool
-functional thread pool util in c++
+# ZUtil
+C++ Util used in project
