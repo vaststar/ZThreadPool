@@ -1,0 +1,6 @@
+[submodule "ThreadPool"]
+	path = ThreadPool
+	url = https://github.com/vaststar/ThreadPool.git
+[submodule "MasterLog"]
+	path = MasterLog
+	url = https://github.com/vaststar/MasterLog.git
