@@ -8,7 +8,7 @@
 #define TEST_LOG_DEBUG(message) LOG_DEBUG("TEST_LOG",message)
 int main(int argc, char* argv[])
 {
-	initConsoleLog();
+	MasterLogUtil::initConsoleLog();
     ThreadPoolUtil::initThreadPool(5);
     for(int i=0;i<500;++i)
     {
